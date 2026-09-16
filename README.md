@@ -10,7 +10,7 @@ El proyecto fue desarrollado como parte de una evaluación académica, enfocánd
 El sitio web se encuentra publicado y 100% funcional a través de Netlify. Puedes visitarlo en el siguiente enlace:
  **[https://aluva-web.netlify.app](https://aluva-web.netlify.app)**
 
-##Tecnologías y Herramientas Utilizadas
+Tecnologías y Herramientas Utilizadas
 
 Para el desarrollo de esta interfaz se utilizaron las siguientes tecnologías:
 
@@ -21,7 +21,7 @@ Para el desarrollo de esta interfaz se utilizaron las siguientes tecnologías:
 * **Font-Awesome & Themify-Icons:** Implementados vía CDN para la iconografía de redes sociales, WhatsApp y fechas.
 * **Cubeportfolio:** Librería para la galería dinámica de productos.
 
-##Características Principales
+Características Principales
 
 * **Diseño Responsivo:** Adaptable a dispositivos móviles, tablets y escritorio.
 * **Catálogo Descargable:** Enlace directo al catálogo PDF de productos 2026.
